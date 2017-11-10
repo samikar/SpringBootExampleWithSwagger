@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: se
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: e1400500
+Implementation-Vendor-Id: se
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/se/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
